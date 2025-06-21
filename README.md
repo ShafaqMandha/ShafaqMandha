@@ -1,46 +1,84 @@
-<h1 align="center">Hi, I'm Shafaq Mandha 👋</h1>
+<h1 align="center">✨ Shafaq Mandha ✨</h1>
+<h3 align="center">Aspiring AI Engineer | IoT Developer | Tech Explorer 🚀</h3>
+
+---
+
+## 👋 About Me
+
+Hello! I'm **Shafaq**, a passionate Computer Systems Engineering student based in **Dubai 🇦🇪**, focused on building **AI-powered applications** and **smart embedded systems**.  
+I love fusing hardware with software to create impactful, real-world solutions.
+
+🌱 Constantly learning  
+💡 Always building  
+🤝 Open to collaboration & meaningful tech conversations
+
+---
+
+## 💼 Projects I’m Proud Of
+
+### 🔮 [Noor.AI](https://noor-ai.onrender.com)
+> AI-powered skincare assistant  
+- Scans your face (makeup-free)  
+- Detects skin type using Teachable Machine  
+- Recommends skincare products with links to trusted stores  
+- Collects feedback via integrated Google Forms  
+📖 [Read how I built it](https://academy.decodingdatascience.com/blog/gettingstartedinAI)
+
+---
+
+### 🏥 Medi-Bot
+> Smart medicine dispenser for healthcare access  
+- Uses Arduino Mega with RFID authentication for patient verification  
+- Stepper motors dispense accurate dosages based on prescription  
+- DHT11 sensor monitors internal temperature to maintain the medicine shelf life  
+
+---
+
+### 🌸 Scentify
+> An intelligent perfume recognition and display system  
+- Detects different perfume scents using MQ gas sensors and ESP32  
+- Integrates a machine learning model to identify and match fragrances  
+- Designed for smart retail environments to enhance user interaction  
+🧠 Where AI meets aroma!
+
+---
+
+## ⚙️ Skills & Technologies
+
+### 💻 Programming  
+`Python` 🐍 | `C/C++` ➕ | `JavaScript` 📜 | `HTML/CSS`
+
+### 🤖 AI / Machine Learning  
+Teachable Machine | Scikit-learn | OpenAI API | ML Deployment | EDA
+
+### 🌐 Web & App Development  
+Flask | MIT App Inventor | Power Apps | Firebase | REST APIs
+
+### 🖌️ UI/UX Design  
+Figma 🎨 | Responsive Web Design | Light/Dark Mode Themes
+
+### 🔧 IoT & Embedded Systems  
+ESP32 | Arduino Mega | HC-05 | DHT11 | RFID | MQ Sensors | Tinkercad | I2C LCD
+
+### 📊 Data Tools  
+Pandas 🐼 | NumPy | Excel Charts | Power BI
+
+### 🧰 Tools & Platforms  
+GitHub 🔄 | Tinkercad | Render | Microsoft Learn | Jupyter Notebook
+
+### 📋 Project & Event Management  
+Notion | Canva | MS Teams | Public Speaking | Google Forms
+
+---
+
+## 📫 Let’s Connect!
+
+- 🌍 [LinkedIn](https://www.linkedin.com/in/shafaqmandha/)
+- 📧 Email: **shafaqmandha@gmail.com**
+- 💬 Always open to exciting projects, collabs, and tech discussions!
+
+---
 
 <p align="center">
-  <b>A Computer Systems Engineering Student | Data Enthusiast | Tech Explorer </b>
+  <i>“Stay curious, build boldly, and create something that matters.”</i> 💖
 </p>
-
----
-
-🌟 **About Me**  
-I'm a second-year Computer Systems Engineering student at Middlesex University Dubai. I’m passionate about **data analysis**, **AI-driven innovation**, and creating smart solutions that blend hardware and software. Whether I’m prototyping with Arduino or building AI apps, I love learning by doing!
-
-💡 I believe tech should be **accessible, impactful, and fun**.
-
----
-
-🛠 **Tech Stack & Tools**
-- 💻 Programming: Python, C/C++, JavaScript
-- ⚙️ Hardware: Arduino, ESP32, HC-05, Sensors & IoT Modules
-- 📊 Data: Pandas, NumPy, Scikit-learn
-- 🧠 AI/ML: Teachable Machine, OpenAI API, ML Model Deployment
-- 🌐 Web: HTML, CSS, Flask, MIT App Inventor
-- 🧰 Tools: Git, Tinkercad, Figma, Power Platform
-
----
-
-📌 **Featured Projects**
-
-- 💡 [Noor.AI](https://noor-ai.onrender.com):  
-  An AI-powered skincare assistant that scans your face (makeup-free) to detect your skin type and recommends personalised skincare products. It simplifies skincare decisions with links to trusted online stores.  
-  🔍 [Read my article](https://academy.decodingdatascience.com/blog/gettingstartedinAI) on how I built it!
-
-- 🤖 Medi-Bot:  
-  An IoT-based medicine dispenser with RFID authentication and smart temperature monitoring for rural healthcare.
-
-- 🌸 Scentify:  
-  A perfume vending machine with a themed UI and product shelf powered by Arduino-controlled motors.
-
----
-
-🌐 **Let's Connect**
-- 🌍 [LinkedIn](https://www.linkedin.com/in/shafaqmandha/)
-- 📬 Reach me: shafaqmandha@gmail.com
-
----
-
-💖 *“Stay curious, build boldly, and make an impact.”*
